@@ -1,0 +1,25 @@
+    .darkly {
+        background-color: #a80e68;
+    }
+    
+    .navbar-burger {
+        color: white;
+    }
+    
+    .navbar-menu {
+        background-color: #a80e68;
+    }
+    
+    svg:hover {
+        background: rgb(185, 24, 118);
+        padding: 5px;
+        border-radius: 5px;
+    }
+    
+    .navbar-end .navbar-item:hover {
+        background-color: #b9297d !important;
+    }
+    
+    .hero {
+        background-image: linear-gradient(96deg, #FA0874, #FFC446);
+    }
